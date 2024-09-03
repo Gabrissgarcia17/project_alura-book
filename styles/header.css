@@ -25,7 +25,7 @@
   }
  
   
-  .lista-menu__item {
+  .lista-menu__item,lista-menu__titulo  {
     padding: 1em;
     background-color: var(--branco);
   }
